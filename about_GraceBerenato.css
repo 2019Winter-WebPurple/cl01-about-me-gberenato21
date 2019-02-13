@@ -1,0 +1,17 @@
+/*
+* Grace Berenato
+* 7 February 2019
+* About Me Web Page
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+    background-color: blanchedalmond;
+}
